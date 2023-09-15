@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
-/** 
- * positive_0r_negative - identifing
+/**
+ * * positive_0r_negative - identifing
  * Return: 0
  */
 
